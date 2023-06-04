@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">8 botones</string>
+    <string name="btn_1">HOLA</string>
+    <string name="btn_2">ADIOS</string>
+    <string name="btn_3">NUMERO</string>
+    <string name="btn_4">BIEN</string>
+    <string name="btn_5">DIA</string>
+    <string name="btn_6">NOCHE</string>
+    <string name="btn_7">BUENO</string>
+    <string name="btn_8">FINAL</string>
+</resources>
